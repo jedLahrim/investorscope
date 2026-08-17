@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786982346645,
+      "tag": "0000_sad_purifiers",
+      "breakpoints": true
+    }
+  ]
+}
